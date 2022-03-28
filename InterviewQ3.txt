@@ -1,0 +1,13 @@
+Q3)What is the difference between class selectors and id selectors?
+
+Ans-
+
+An overall block is given to class selector while id selectors take only a single element differing from other elements.
+
+CSS Class Selector
+<style>    
+.center {    
+    text-align: center;    
+    color: blue;    
+}    
+</style>

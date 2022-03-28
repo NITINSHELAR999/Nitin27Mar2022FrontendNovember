@@ -1,0 +1,29 @@
+Q5)What is the difference between inline, embedded and external style sheets?
+
+Ans-
+
+Inline: Inline Style Sheet is used to style only a small piece of code.
+
+Syntax
+<htmltag style="cssproperty1:value; cssproperty2:value;"> </htmltag>     
+       
+Embedded: Embedded style sheets are put between the <head>...</head> tags.
+
+Syntax
+<style>    
+body {    
+    background-color: linen;    
+}    
+h1 {    
+    color: red;    
+    margin-left: 80px;    
+}     
+</style>    
+       
+External: This is used to apply the style to all the pages within your website by changing just one style sheet.
+
+Syntax
+<head>    
+<link rel="stylesheet" type="text/css" href="mystyle.css">    
+</head>    
+       

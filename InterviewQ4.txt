@@ -1,0 +1,7 @@
+Q4)What are the advantages of External Style Sheets?
+
+Ans-
+
+You can create classes for reusing it in many documents.
+By using it, you can control the styles of multiple documents from one file.
+In complex situations, you can use selectors and grouping methods to apply styles.

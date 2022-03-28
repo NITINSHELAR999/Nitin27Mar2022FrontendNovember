@@ -1,0 +1,9 @@
+Q1)Name the property for controlling the image scroll in the background.
+
+Ans-
+
+The background-attachment property is used to specify if the background image is fixed or scroll with the rest of the page in the browser window. If you set fixed the background image, then the image not move during scrolling in the browser. Let's take an example with the fixed background image.
+
+background: white url('bbb.gif');  
+background-repeat: no-repeat;  
+background-attachment: fixed; 
